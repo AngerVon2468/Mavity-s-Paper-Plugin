@@ -4,3 +4,6 @@
 *.ini
 *thumbs.db
 .idea/
+.gradle/
+gradle/
+build/
