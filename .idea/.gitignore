@@ -3,7 +3,7 @@
 /workspace.xml
 *.ini
 *thumbs.db
-.idea/
-.gradle/
-gradle/
-build/
+/.idea/
+/.gradle/
+/gradle/
+/build/
